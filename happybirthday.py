@@ -30,9 +30,7 @@ for index in range(len(bornTodayNames)):
     We hope you celebrate many more such birthdays ahead and have a bright future. We love you from the bottom of our hearts and are happy to be your batchmates.
     From,
     Gnanika Omkarini Makkena
-    Aditi Sharma
-    Vaishnavi Kesiraju
-
+    
     P.S: Where's the cake???
     """
     em = EmailMessage()
